@@ -12,7 +12,7 @@ header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, vi
 
 .body {
     /* font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ ProN W3", Hiragino Kaku Gothic ProN, Arial, "ãƒ¡ã‚¤ãƒªã‚ª", Meiryo, sans-serif; */
-	font-family: 'Avenir','Helvetica Neue','Helvetica','Arial',YuGothic,'Yu Gothic','Hiragino Sans','ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ã‚·ãƒƒã‚¯','ãƒ¡ã‚¤ãƒªã‚ª', Meiryo,'ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯','MS PGothic',sans-serif;
+	
 	font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 img{
@@ -20,9 +20,10 @@ img{
 	vertical-align: middle;
 }
 
-.wrap {
-    
+h2 {
+    font-family: "Yu Mincho Light", sans-serif;
 }
+
 
 #top {
     width: 100%;
